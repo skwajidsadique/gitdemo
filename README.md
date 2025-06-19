@@ -1,6 +1,6 @@
 # gitdemo
 
-this is my firat demp repo
+this is my first demp repo
 <hr>
 now we learn git hup
 
